@@ -1,0 +1,30 @@
+body {
+    font-family: 'Saira Stencil One', cursive;
+    background-image: url('../images/fogos.gif');
+    background-size: cover;
+    background-position: center center;
+}
+
+label {
+    font-size: 2em;
+    color: yellow;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+#beaulty-text {
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.happy-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: -webkit-fill-available;
+}
+
+.btn {
+    margin-top: 1em;
+    width: 60%;
+    background-color: cadetblue;
+    border: 1px solid black;
+}
